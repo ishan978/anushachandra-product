@@ -380,7 +380,7 @@ function Hero() {
             transition={{ duration: 5, repeat: Infinity, ease: "easeInOut" }}
           >
             <div className="text-[11px] uppercase tracking-widest text-primary">Currently</div>
-            <div className="mt-1 font-display font-medium">Healthcare UX research</div>
+            <div className="mt-1 font-display font-medium">Product Design & UX Research</div>
           </motion.div>
         </motion.div>
       </div>
