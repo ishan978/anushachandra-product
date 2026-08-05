@@ -312,10 +312,6 @@ function Nav() {
 function Hero() {
   return (
     <section id="top" className="relative overflow-hidden">
-      {/* Ambient gradients */}
-      <div className="absolute -top-40 left-1/2 -translate-x-1/2 size-[900px] rounded-full bg-primary/10 blur-[140px] -z-10" />
-      <div className="absolute top-40 -right-40 size-[500px] rounded-full bg-indigo-500/10 blur-[120px] -z-10" />
-      <div className="absolute inset-0 grain opacity-[0.04] pointer-events-none -z-10" />
 
       <div className="mx-auto max-w-6xl px-6 pt-12 pb-12 md:pt-16 md:pb-16 grid md:grid-cols-12 gap-12 items-center">
         <motion.div
