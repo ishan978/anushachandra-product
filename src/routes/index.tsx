@@ -337,9 +337,7 @@ function Hero() {
             variants={fadeUp}
             className="mt-7 text-lg text-muted-foreground max-w-xl leading-relaxed"
           >
-            I&apos;m <span className="font-name text-foreground text-xl">Anusha Chandra</span> — a
-            Product Designer crafting intuitive, research-driven digital systems for the
-            future of medical and patient experiences.
+            Hi, I&apos;m Anusha Chandra, a Product Designer passionate about transforming complex user problems into intuitive digital experiences through research, systems thinking, and thoughtful interaction design.
           </motion.p>
 
           <motion.div variants={fadeUp} className="mt-9 flex flex-wrap items-center gap-3">
