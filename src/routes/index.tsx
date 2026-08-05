@@ -327,16 +327,10 @@ function Hero() {
 
           <motion.h1
             variants={fadeUp}
-            className="mt-8 md:mt-12 font-display text-4xl sm:text-5xl md:text-[72px] lg:text-[80px] font-semibold leading-[0.97] tracking-[-0.02em] text-balance text-foreground"
+            className="mt-6 font-display text-5xl md:text-7xl font-semibold leading-[1.02] tracking-tight text-balance"
           >
-            Designing intuitive
-            <br />
-            digital products
-            <br />
-            that{" "}
-            <span className="font-black uppercase text-accent">
-              CREATE IMPACT.
-            </span>
+            Designing intuitive digital products that{" "}
+            <span className="font-hand text-gradient-orange text-6xl md:text-8xl">create impact.</span>
           </motion.h1>
 
           <motion.p
