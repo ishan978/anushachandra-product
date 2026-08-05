@@ -330,7 +330,7 @@ function Hero() {
             className="mt-6 font-display text-5xl md:text-7xl font-semibold leading-[1.02] tracking-tight text-balance"
           >
             Designing intuitive digital products that{" "}
-            <span className="font-hand text-gradient-orange text-6xl md:text-8xl">create impact.</span>
+            <span className="text-accent">create impact.</span>
           </motion.h1>
 
           <motion.p
