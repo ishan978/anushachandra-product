@@ -333,11 +333,8 @@ function Hero() {
             variants={fadeUp}
             className="mt-6 font-display text-5xl md:text-7xl font-semibold leading-[1.02] tracking-tight text-balance"
           >
-            Designing calmer
-            <br />
-            <span className="font-hand text-gradient-orange text-6xl md:text-8xl">healthcare.</span>
-            <br />
-            <span className="text-muted-foreground">One idea at a time.</span>
+            Designing products people{" "}
+            <span className="font-hand text-gradient-orange text-6xl md:text-8xl">love to use.</span>
           </motion.h1>
 
           <motion.p
